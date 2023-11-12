@@ -1,4 +1,4 @@
-# Implement the original Generative Adversarial Network
+# Implementation of Generative Adversarial Network in PyTorch
 This is a very basic implementation of the original version of Generative Adversarial Network.
 
 ## Run
